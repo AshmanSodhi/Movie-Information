@@ -2,7 +2,7 @@
 
 This program extracts a Movie data from IMDB database and shows information for the same
 
-#Code Snippets
+# Code Snippets
 1. We can enter the name of the Movie for which we want data
 
 ![image](https://github.com/AshmanSodhi/Movie-Information/assets/132582176/eadcc892-89d9-4dcb-b4a8-57c99dee8bc1)
